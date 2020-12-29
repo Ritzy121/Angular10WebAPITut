@@ -1,5 +1,11 @@
 # Angular10
 
+Learn Angular 10, Web API & SQL Server by Creating a Web Application from Scratch.mp4
+
+https://morioh.com/p/d1c43a0278fb
+
+https://github.com/ArtOfEngineer/Angular10WebAPITut
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
 ## Development server
